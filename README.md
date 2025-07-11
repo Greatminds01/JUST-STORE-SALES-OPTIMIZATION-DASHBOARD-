@@ -73,7 +73,6 @@ The aim of this project was to:
 - Heatmap: Performance across Region and Category  
 - Interactive Filters: Region, Category, Date Range  
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -94,8 +93,8 @@ The aim of this project was to:
 
 ## 📂 Files in This Repository
 
--  Tableau Packaged Workbook  
-- `README.md` – Project Overview  
+- Tableau Packaged Workbook  
+- Project Overview  
 - Dashboard_Screenshots – Images from the final dashboard
 
 
